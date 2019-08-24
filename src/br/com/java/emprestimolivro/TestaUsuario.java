@@ -16,7 +16,7 @@ public class TestaUsuario {
 		
 		
 		usuario1.imprimeUsuario();
-		System.out.println("************************");
+		System.out.println("***********************");
 		livro.imprimeLivro();
 		System.out.println("************************");
 		emprestimo.imprimeEmprest();
