@@ -50,9 +50,9 @@ public class Usuario {
 	private String endereco;
 
 	public void imprimeUsuario() {
-		System.out.println("Codigo" + codigoUsuario);
-		System.out.println("Nome" + nomeCompleto);
-		System.out.println("Data de Nascimento" + dataNascimento);
-		System.out.println("Endereco" + endereco);
+		System.out.println("Codigo: " + codigoUsuario);
+		System.out.println("Nome: " + nomeCompleto);
+		System.out.println("Data de Nascimento: " + dataNascimento);
+		System.out.println("Endereco: " + endereco);
 	}
 }

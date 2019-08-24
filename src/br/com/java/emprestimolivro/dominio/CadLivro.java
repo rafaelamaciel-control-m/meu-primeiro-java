@@ -16,9 +16,9 @@ public CadLivro( String nomeLivro, String autor) {
 
 
 public void imprimeLivro() {
-	System.out.println("Codigo" + codigoLivro);
-	System.out.println("Nome" + nomeLivro);
-	System.out.println("Data de Nascimento" + autor);
+	System.out.println("Codigo: " + codigoLivro);
+	System.out.println("Nome: " + nomeLivro);
+	System.out.println("Data de Nascimento: " + autor);
 }
 
 
